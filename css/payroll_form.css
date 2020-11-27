@@ -132,6 +132,14 @@ select{
     background-color: transparent;
 }
 
+error-output
+{
+    font-size:12px;
+    font-style:italic;
+    color:red;
+    margin: 5px;
+}
+
 .buttonParent{
     display: flex;
     margin-bottom: 10px;
